@@ -15,7 +15,7 @@ namespace Overactive
     /// <summary>
     /// working title: The boy with the green blanket
     /// This is the main type for your game
-    /// 
+    /// wow
     /// </summary>
     public class Overactive : Microsoft.Xna.Framework.Game
     {
