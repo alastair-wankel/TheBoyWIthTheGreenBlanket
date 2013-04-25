@@ -1,0 +1,7 @@
+C:\Users\Hephaestus\Documents\Visual Studio 2010\Projects\Overactive\Overactive\Overactive\bin\x86\Debug\Overactive.exe
+C:\Users\Hephaestus\Documents\Visual Studio 2010\Projects\Overactive\Overactive\Overactive\bin\x86\Debug\Overactive.pdb
+C:\Users\Hephaestus\Documents\Visual Studio 2010\Projects\Overactive\Overactive\Overactive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hephaestus\Documents\Visual Studio 2010\Projects\Overactive\Overactive\Overactive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hephaestus\Documents\Visual Studio 2010\Projects\Overactive\Overactive\Overactive\obj\x86\Debug\Overactive.exe
+C:\Users\Hephaestus\Documents\Visual Studio 2010\Projects\Overactive\Overactive\Overactive\obj\x86\Debug\Overactive.pdb
+C:\Users\Hephaestus\Documents\Visual Studio 2010\Projects\Overactive\Overactive\Overactive\bin\x86\Debug\Content\Sprites\Player\Idle\OASprite.xnb
