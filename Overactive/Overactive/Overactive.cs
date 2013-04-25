@@ -13,6 +13,7 @@ using System.IO;
 namespace Overactive
 {
     /// <summary>
+    /// working title: The boy with the green blanket
     /// This is the main type for your game
     /// </summary>
     public class Overactive : Microsoft.Xna.Framework.Game
